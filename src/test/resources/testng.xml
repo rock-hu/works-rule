@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="works-rule-suite">
+	<test name="works-rule">
+		<packages>
+			<package name="org.works.rule" />
+		</packages>
+	</test>
+</suite>
