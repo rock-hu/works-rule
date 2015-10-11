@@ -32,23 +32,11 @@
 		</dependency>
 		<dependency>
 			<groupId>org.drools</groupId>
-			<artifactId>knowledge-api</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.drools</groupId>
 			<artifactId>drools-core</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.drools</groupId>
 			<artifactId>drools-reteoo</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.drools</groupId>
-			<artifactId>drools-compiler</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.drools</groupId>
-			<artifactId>drools-jsr94</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.drools</groupId>
@@ -65,10 +53,6 @@
 		<dependency>
 			<groupId>org.drools</groupId>
 			<artifactId>drools-templates</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.drools</groupId>
-			<artifactId>drools-decisiontables</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.drools</groupId>
@@ -98,11 +82,6 @@
 			<groupId>org.drools</groupId>
 			<artifactId>drools-karaf-itest</artifactId>
 		</dependency>
-
-		<dependency>
-			<groupId>org.drools</groupId>
-			<artifactId>drools-core</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.drools</groupId>
 			<artifactId>drools-compiler</artifactId>
@@ -126,10 +105,6 @@
 		<dependency>
 			<groupId>org.jbpm</groupId>
 			<artifactId>jbpm-bpmn2</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.drools</groupId>
-			<artifactId>drools-verifier</artifactId>
 		</dependency>
 		<!-- Hibernate -->
 		<dependency>
